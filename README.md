@@ -1,1 +1,1 @@
-# PokeWars
+# PokéWars
