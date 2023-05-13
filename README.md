@@ -10,7 +10,6 @@ In addition to playing battles, you can also manage your collection of cards wit
 Overall, Pokewars is a fun and engaging game that is perfect for anyone who loves Pokemon cards. With its range of features and the ability to play with your friends, it offers a unique and exciting experience that is sure to keep you entertained for hours on end.
 
 # **Timeline 📅**
-***
 ### 01-05-2023 
 * Started the project
 * Working on scanning pokémon cards
