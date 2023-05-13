@@ -30,4 +30,5 @@ Overall, Pokewars is a fun and engaging game that is perfect for anyone who love
 ### 13-05-2023
 * Solving scanning cards latency using caching method
 * Detecting cards is almost done
+* Runtime decrased to 1 minute (from 19 minutes)
 
